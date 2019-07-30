@@ -1,5 +1,7 @@
 # Liferay Headless Demo
 
+Simple Angular app that demonstrates some of the headless CMS features in Liferay DXP 7.2+. Retrieves web content article in raw, localised and rendered form.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
